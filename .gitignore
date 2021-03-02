@@ -1,0 +1,6 @@
+*.pdf
+*__pycache__*
+*.ipynb_checkpoints*
+*.zip
+*.pt
+*cs5170415_model
